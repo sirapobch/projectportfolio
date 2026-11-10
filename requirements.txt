@@ -1,0 +1,5 @@
+torch>=2.0
+torchvision>=0.15
+numpy<2; platform_machine == "x86_64" and sys_platform == "darwin"
+streamlit>=1.30
+pillow>=9.0

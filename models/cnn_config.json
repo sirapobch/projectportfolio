@@ -1,0 +1,26 @@
+{
+  "num_filters": 16,
+  "dropout": 0.2,
+  "img_size": 128,
+  "norm_mean": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "norm_std": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "labels": {
+    "0": "Real",
+    "1": "AI-generated"
+  },
+  "test_metrics": {
+    "accuracy": 0.9262,
+    "weighted_f1": 0.9261,
+    "auc": 0.9843,
+    "precision_ai": 0.9124,
+    "recall_ai": 0.9428
+  }
+}
