@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+# large / regenerable data (download from the Drive link in the README)
+Dataset/
+outputs/test_prep/
+*.npz
+NECO coursework report.pdf
+NECO_Supplementary_Material.pdf
+Entire_code_printout.pdf
+README.txt
