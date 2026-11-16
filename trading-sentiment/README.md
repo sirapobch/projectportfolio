@@ -1,8 +1,5 @@
 # LLM-Derived Sentiment for Magnificent Seven Stock Prediction
 
-MSc Data Science individual project (INM363), City St George's, University of London.
-Author: Sirapob Charoenchaipiyakul. Supervisor: Oleksandr Galkin.
-
 **Question.** Does adding news sentiment from FinBERT (a finance-specific encoder) or Qwen2.5-7B-Instruct
 (a general-purpose LLM) to a price, fundamental and macroeconomic baseline improve out-of-sample prediction and
 portfolio performance for the seven largest US technology stocks, and are any return differences statistically significant?
