@@ -63,3 +63,7 @@ in this repo because of their size.
 - **Training:** Adam, lr 1e-4, weight decay 1e-6, batch size 32, random horizontal flip augmentation.
 
 Author: Sirapob Charoenchaipiyakul
+
+## Other projects
+
+- [**LLM sentiment for Magnificent Seven stock prediction**](trading-sentiment/): FinBERT vs Qwen2.5 sentiment features, purged walk-forward validation and portfolio backtests (MSc Data Science, INM363).
